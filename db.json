@@ -1,26 +1,26 @@
 {
-	"Employee": [
-			{
-				"id": 1,
-				"FirstName": "Wendy",
-				"LastName": "Jones",
-				"FullName": "Wendy Jones",
-				"PersonalNumber": "100895/ 89",
-				"Mobile": "097-5142",
-				"Position": "Employee",
-				"VacationDays": 10,
-				"RemainingVacationDays": 10
-		},
-					{
-						"id": 2,
-				"FirstName": "Rick",
-				"LastName": "Sanchez",
-				"FullName": "Rick Sanchez",
-				"PersonalNumber": "100895/ 89",
-				"Mobile": "097-4867",
-				"Position": "Manager",
-				"VacationDays": 15,
-				"RemainingVacationDays": 15
-		}
-	]
+   "Employee":[
+      {
+         "id":1,
+         "FirstName":"Wendy",
+         "LastName":"Jones",
+         "FullName":"Wendy Jones",
+         "PersonalNumber":"100895/ 89",
+         "Mobile":"097-5142",
+         "Position":"Employee",
+         "VacationDays":10,
+         "RemainingVacationDays":10
+      },
+      {
+         "id":2,
+         "FirstName":"Rick",
+         "LastName":"Sanchez",
+         "FullName":"Rick Sanchez",
+         "PersonalNumber":"100895/ 89",
+         "Mobile":"097-4867",
+         "Position":"Manager",
+         "VacationDays":15,
+         "RemainingVacationDays":15
+      }
+   ]
 }
