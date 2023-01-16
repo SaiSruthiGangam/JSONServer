@@ -1,0 +1,14 @@
+{
+	"Employee": [
+			{
+				"FirstName": "abc",
+				"LastName": "d",
+				"FullName": "abc d",
+				"PersonalNumber": "100895/ 89",
+				"Mobile": "7895465",
+				"Position": "Employee",
+				"VacationDays": 10,
+				"RemainingVacationDays": 10
+		}
+	]
+}
